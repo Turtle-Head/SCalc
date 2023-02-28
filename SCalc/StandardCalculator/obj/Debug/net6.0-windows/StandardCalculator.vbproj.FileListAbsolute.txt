@@ -1,0 +1,17 @@
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.vbproj.AssemblyReference.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.vbproj.GenerateResource.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.AssemblyInfoInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.AssemblyInfo.vb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\bin\Debug\net6.0-windows\StandardCalculator.exe
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\bin\Debug\net6.0-windows\StandardCalculator.deps.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\bin\Debug\net6.0-windows\StandardCalculator.runtimeconfig.json
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\bin\Debug\net6.0-windows\StandardCalculator.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\bin\Debug\net6.0-windows\StandardCalculator.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\refint\StandardCalculator.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.pdb
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.genruntimeconfig.cache
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\ref\StandardCalculator.dll
+C:\Users\Stark\Documents\Documents\GitHub\VS Projects\Basic\SCalc\StandardCalculator\obj\Debug\net6.0-windows\StandardCalculator.Form1.resources
